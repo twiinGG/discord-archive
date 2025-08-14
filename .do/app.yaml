@@ -1,0 +1,39 @@
+name: discord-archive
+services:
+  - name: web
+    source_dir: /
+    github:
+      repo: twiinGG/discord-archive
+      branch: main
+    environment_slug: node-js
+    instance_count: 1
+    instance_size_slug: basic-xxs
+    http_port: 3000
+    routes:
+      - path: /
+    envs:
+      - key: NODE_ENV
+        value: production
+      - key: NEXT_PUBLIC_SUPABASE_URL
+        value: ${NEXT_PUBLIC_SUPABASE_URL}
+        type: SECRET
+      - key: NEXT_PUBLIC_SUPABASE_ANON_KEY
+        value: ${NEXT_PUBLIC_SUPABASE_ANON_KEY}
+        type: SECRET
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        value: ${SUPABASE_SERVICE_ROLE_KEY}
+        type: SECRET
+      - key: DISCORD_BOT_TOKEN
+        value: ${DISCORD_BOT_TOKEN}
+        type: SECRET
+      - key: DISCORD_USER_TOKEN
+        value: ${DISCORD_USER_TOKEN}
+        type: SECRET
+      - key: DISCORD_GUILD_ID
+        value: ${DISCORD_GUILD_ID}
+        type: SECRET
+      - key: NEXTAUTH_SECRET
+        value: ${NEXTAUTH_SECRET}
+        type: SECRET
+    build_command: npm run build
+    run_command: npm start

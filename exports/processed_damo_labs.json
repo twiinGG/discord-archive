@@ -1,0 +1,1202 @@
+{
+  "channels": [
+    {
+      "id": "998527456925462549",
+      "name": "damo-labs",
+      "category": "DEVELOPMENT",
+      "type": "text",
+      "position": 0,
+      "created_at": "2025-08-14T02:08:06.301Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "548358064076619776",
+      "username": "dunks411",
+      "display_name": "dunks411#0000",
+      "avatar_url": "https://cdn.discordapp.com/avatars/548358064076619776/d8033e1ced4491113a04714525ed15d6.png?size=512"
+    },
+    {
+      "id": "748075918714601512",
+      "username": "tonytang2583",
+      "display_name": "tonytang2583#0000",
+      "avatar_url": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+    },
+    {
+      "id": "542761771405017099",
+      "username": "bee926",
+      "display_name": "bee926#0000",
+      "avatar_url": "https://cdn.discordapp.com/avatars/542761771405017099/c68d0eb8b40b55e3b550c970a6e2f91c.png?size=512"
+    }
+  ],
+  "messages": [
+    {
+      "id": "998527484100362282",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "Hi @tony-tang",
+      "message_timestamp": "2022-07-18T09:51:43.953+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "748075918714601512",
+          "name": "tonytang2583",
+          "discriminator": "0000",
+          "nickname": "tony-tang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "998527526035017778",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "I spoke to one of your team on twitter!",
+      "message_timestamp": "2022-07-18T09:51:53.951+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998535877015912508",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "Hi",
+      "message_timestamp": "2022-07-18T10:25:04.98+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998535887694594048",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "Yes",
+      "message_timestamp": "2022-07-18T10:25:07.526+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998535917579026543",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "Nice to meet you",
+      "message_timestamp": "2022-07-18T10:25:14.651+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998535962055409665",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "we can talk about cooperation matters",
+      "message_timestamp": "2022-07-18T10:25:25.255+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998536424087371797",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "😆",
+      "message_timestamp": "2022-07-18T10:27:15.412+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998536576126697503",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "Do you have time, maybe we can make a call to talk",
+      "message_timestamp": "2022-07-18T10:27:51.661+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998536844142718988",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "I can do a call now if it suits you sir?",
+      "message_timestamp": "2022-07-18T10:28:55.561+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "748075918714601512",
+          "name": "tonytang2583",
+          "discriminator": "0000",
+          "nickname": "tony-tang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "998537546172735518",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "Hi",
+      "message_timestamp": "2022-07-18T10:31:42.938+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998537557488959569",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "https://calendly.com/milesli/30min",
+      "message_timestamp": "2022-07-18T10:31:45.636+00:00",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "30 Minute Meeting - Damo Labs",
+          "url": "https://calendly.com/milesli/30min",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QP3HH1MEKXpIKtCaEyS9B2YCQB46G7fvAhMZpbrWI4s/%3Fsource%3Dopengraph/https/d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/15200897/ae18a9d4.png",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "998537719129051167",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "you pick a Wednesday or Thursday time here?😆",
+      "message_timestamp": "2022-07-18T10:32:24.174+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998558950603640912",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "I have noticed that you have cooperated with some web3 projects, we have recently invested and will have corresponding projects in the future, let's see if we can reach a long-term cooperation with you and recommend some web3 projects to each other for cooperation.😆",
+      "message_timestamp": "2022-07-18T11:56:46.152+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998560036391501864",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "Sounds good",
+      "message_timestamp": "2022-07-18T12:01:05.024+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "748075918714601512",
+          "name": "tonytang2583",
+          "discriminator": "0000",
+          "nickname": "tony-tang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "998560067337072660",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "On twitter the message was this",
+      "message_timestamp": "2022-07-18T12:01:12.402+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998560177072640130",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "",
+      "message_timestamp": "2022-07-18T12:01:38.565+00:00",
+      "attachments": [
+        {
+          "id": "998560176388964443",
+          "url": "https://cdn.discordapp.com/attachments/998527456925462549/998560176388964443/unknown.png?ex=689e78e2&is=689d2762&hm=b478f442af37e9e8a75a0c129b13b0114dfb72dc26481dd0d64dbe72ae0761ad&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 17582
+        }
+      ],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998560218738860083",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "Any idea about these KOLs?",
+      "message_timestamp": "2022-07-18T12:01:48.499+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998560325228052510",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "Yeh I see you guys invested in Swell Network!",
+      "message_timestamp": "2022-07-18T12:02:13.888+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "748075918714601512",
+          "name": "tonytang2583",
+          "discriminator": "0000",
+          "nickname": "tony-tang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "998758326697467964",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "Yes,we are currently working with some KOLs, you need some KOLs to work with now, right?",
+      "message_timestamp": "2022-07-19T01:09:01.117+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "548358064076619776",
+          "name": "dunks411",
+          "discriminator": "0000",
+          "nickname": "dunks411",
+          "color": "#1F8B4C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "860429426465833010",
+              "name": "Admin",
+              "color": "#1F8B4C",
+              "position": 148
+            },
+            {
+              "id": "931413472049258586",
+              "name": "Core Team",
+              "color": "#F1C40F",
+              "position": 146
+            },
+            {
+              "id": "865792363442733077",
+              "name": "Project Manager",
+              "color": "#E91E63",
+              "position": 144
+            },
+            {
+              "id": "877477239116140555",
+              "name": "THE FOUNDING 100",
+              "color": "#FFE859",
+              "position": 143
+            },
+            {
+              "id": "931411129924726896",
+              "name": "CRE8R DAO Internal",
+              "color": "#1F8B4C",
+              "position": 141
+            },
+            {
+              "id": "860395708758491158",
+              "name": "CRE8R Level 1 (Contributor)",
+              "color": "#9B59B6",
+              "position": 139
+            },
+            {
+              "id": "879405738097791027",
+              "name": "Flower DAO Team",
+              "color": "#E91E63",
+              "position": 110
+            },
+            {
+              "id": "917915064512675931",
+              "name": "$CRE8R Holders",
+              "color": "#E74C3C",
+              "position": 79
+            },
+            {
+              "id": "923477073148932146",
+              "name": "sales",
+              "color": null,
+              "position": 75
+            },
+            {
+              "id": "923478490169364540",
+              "name": "business dev",
+              "color": null,
+              "position": 72
+            },
+            {
+              "id": "931307044273811496",
+              "name": "GOD MODE channels",
+              "color": "#F1C40F",
+              "position": 63
+            },
+            {
+              "id": "931414812141961266",
+              "name": "MARKETING channels",
+              "color": null,
+              "position": 62
+            },
+            {
+              "id": "931415459658608660",
+              "name": "ADMINISTRATION channels",
+              "color": null,
+              "position": 61
+            },
+            {
+              "id": "931426315075198977",
+              "name": "SUPERUMANS channels",
+              "color": null,
+              "position": 60
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/548358064076619776/d8033e1ced4491113a04714525ed15d6.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "998773100520931328",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "We are a DAO of content creators and we work on projects for clients (other DAOs etc).",
+      "message_timestamp": "2022-07-19T02:07:43.471+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "748075918714601512",
+          "name": "tonytang2583",
+          "discriminator": "0000",
+          "nickname": "tony-tang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "998773329076953128",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "We are always looking to onboard new content creators that cover crypto/web3/DeFi",
+      "message_timestamp": "2022-07-19T02:08:37.963+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998773343333404782",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "So yes.",
+      "message_timestamp": "2022-07-19T02:08:41.362+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998843068490981376",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "great",
+      "message_timestamp": "2022-07-19T06:45:45.135+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998843453133819904",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "We have worked together some, this may be a point of cooperation for us, likewise for the project side, are you also interested in it",
+      "message_timestamp": "2022-07-19T06:47:16.841+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998869162963251200",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "Yes we would love to work with some of your portfolio projects!",
+      "message_timestamp": "2022-07-19T08:29:26.542+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "748075918714601512",
+          "name": "tonytang2583",
+          "discriminator": "0000",
+          "nickname": "tony-tang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "998869290499440690",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "Also we are building our own referral platform which will be launching soon with its own token.",
+      "message_timestamp": "2022-07-19T08:29:56.949+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998869338415186061",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "Perhaps you would like to learn more about that too!",
+      "message_timestamp": "2022-07-19T08:30:08.373+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998878242113081465",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "yes,that's great",
+      "message_timestamp": "2022-07-19T09:05:31.18+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998879233134841907",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "It will be convenient for you to set up a time to talk about the details, and we will establish a telegram group, so that the communication of cooperation will be very convenient.😆",
+      "message_timestamp": "2022-07-19T09:09:27.458+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "998879583547953183",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "@Bee926 @fugu @Ceazor | Snack Sandwich",
+      "message_timestamp": "2022-07-19T09:10:51.003+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "542761771405017099",
+          "name": "bee926",
+          "discriminator": "0000",
+          "nickname": "Bee926",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "862188253100113922",
+              "name": "MSIG",
+              "color": "#E67E22",
+              "position": 149
+            },
+            {
+              "id": "860429426465833010",
+              "name": "Admin",
+              "color": "#1F8B4C",
+              "position": 148
+            },
+            {
+              "id": "931413472049258586",
+              "name": "Core Team",
+              "color": "#F1C40F",
+              "position": 146
+            },
+            {
+              "id": "931279345861922876",
+              "name": "Senior Project Manager",
+              "color": "#E74C3C",
+              "position": 145
+            },
+            {
+              "id": "865792363442733077",
+              "name": "Project Manager",
+              "color": "#E91E63",
+              "position": 144
+            },
+            {
+              "id": "877477239116140555",
+              "name": "THE FOUNDING 100",
+              "color": "#FFE859",
+              "position": 143
+            },
+            {
+              "id": "927998548887371876",
+              "name": "CRE8R Level 2 (Sr Contributor)",
+              "color": "#AD1457",
+              "position": 140
+            },
+            {
+              "id": "860395708758491158",
+              "name": "CRE8R Level 1 (Contributor)",
+              "color": "#9B59B6",
+              "position": 139
+            },
+            {
+              "id": "1010235935516008469",
+              "name": "AmpliFi-Team",
+              "color": null,
+              "position": 16
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/542761771405017099/c68d0eb8b40b55e3b550c970a6e2f91c.png?size=512"
+        },
+        {
+          "id": "775192734562517016",
+          "name": "fugu1472",
+          "discriminator": "0000",
+          "nickname": "fugu",
+          "color": "#1F8B4C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "860429426465833010",
+              "name": "Admin",
+              "color": "#1F8B4C",
+              "position": 148
+            },
+            {
+              "id": "931413472049258586",
+              "name": "Core Team",
+              "color": "#F1C40F",
+              "position": 146
+            },
+            {
+              "id": "931279345861922876",
+              "name": "Senior Project Manager",
+              "color": "#E74C3C",
+              "position": 145
+            },
+            {
+              "id": "865792363442733077",
+              "name": "Project Manager",
+              "color": "#E91E63",
+              "position": 144
+            },
+            {
+              "id": "877477239116140555",
+              "name": "THE FOUNDING 100",
+              "color": "#FFE859",
+              "position": 143
+            },
+            {
+              "id": "931411129924726896",
+              "name": "CRE8R DAO Internal",
+              "color": "#1F8B4C",
+              "position": 141
+            },
+            {
+              "id": "927998548887371876",
+              "name": "CRE8R Level 2 (Sr Contributor)",
+              "color": "#AD1457",
+              "position": 140
+            },
+            {
+              "id": "860395708758491158",
+              "name": "CRE8R Level 1 (Contributor)",
+              "color": "#9B59B6",
+              "position": 139
+            },
+            {
+              "id": "927998261044850809",
+              "name": "CRE8R Level 0 (Community)",
+              "color": "#3498DB",
+              "position": 138
+            },
+            {
+              "id": "923478745510211605",
+              "name": "podcaster",
+              "color": null,
+              "position": 71
+            },
+            {
+              "id": "923479202735480843",
+              "name": "designer",
+              "color": null,
+              "position": 70
+            },
+            {
+              "id": "931307044273811496",
+              "name": "GOD MODE channels",
+              "color": "#F1C40F",
+              "position": 63
+            },
+            {
+              "id": "981746937453752361",
+              "name": "Bounty Bot - Core Contributor",
+              "color": null,
+              "position": 28
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/775192734562517016/c369986cd98eeffe1270c79cf5398621.png?size=512"
+        },
+        {
+          "id": "748075918714601512",
+          "name": "tonytang2583",
+          "discriminator": "0000",
+          "nickname": "tony-tang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+        },
+        {
+          "id": "417846775395647499",
+          "name": "ceazor",
+          "discriminator": "0000",
+          "nickname": "Ceazor | Snack Sandwich",
+          "color": "#1F8B4C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "860429426465833010",
+              "name": "Admin",
+              "color": "#1F8B4C",
+              "position": 148
+            },
+            {
+              "id": "931413472049258586",
+              "name": "Core Team",
+              "color": "#F1C40F",
+              "position": 146
+            },
+            {
+              "id": "931279345861922876",
+              "name": "Senior Project Manager",
+              "color": "#E74C3C",
+              "position": 145
+            },
+            {
+              "id": "865792363442733077",
+              "name": "Project Manager",
+              "color": "#E91E63",
+              "position": 144
+            },
+            {
+              "id": "877477239116140555",
+              "name": "THE FOUNDING 100",
+              "color": "#FFE859",
+              "position": 143
+            },
+            {
+              "id": "920086902403637329",
+              "name": "GOD MODE Dev",
+              "color": "#546E7A",
+              "position": 142
+            },
+            {
+              "id": "931411129924726896",
+              "name": "CRE8R DAO Internal",
+              "color": "#1F8B4C",
+              "position": 141
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417846775395647499/82b996b0132f87e2b3b23ad575169eb9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "999198518260543508",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "Hi,any news?",
+      "message_timestamp": "2022-07-20T06:18:10.964+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "999205297434406913",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "can have a call now if you like sir",
+      "message_timestamp": "2022-07-20T06:45:07.245+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "748075918714601512",
+          "name": "tonytang2583",
+          "discriminator": "0000",
+          "nickname": "tony-tang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "999236992011337798",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "Hi",
+      "message_timestamp": "2022-07-20T08:51:03.821+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "999238632399454288",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "@dunks411 Because it is a team member and I will communicate with you to see if we can make an appointment.",
+      "message_timestamp": "2022-07-20T08:57:34.92+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "548358064076619776",
+          "name": "dunks411",
+          "discriminator": "0000",
+          "nickname": "dunks411",
+          "color": "#1F8B4C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "860429426465833010",
+              "name": "Admin",
+              "color": "#1F8B4C",
+              "position": 148
+            },
+            {
+              "id": "931413472049258586",
+              "name": "Core Team",
+              "color": "#F1C40F",
+              "position": 146
+            },
+            {
+              "id": "865792363442733077",
+              "name": "Project Manager",
+              "color": "#E91E63",
+              "position": 144
+            },
+            {
+              "id": "877477239116140555",
+              "name": "THE FOUNDING 100",
+              "color": "#FFE859",
+              "position": 143
+            },
+            {
+              "id": "931411129924726896",
+              "name": "CRE8R DAO Internal",
+              "color": "#1F8B4C",
+              "position": 141
+            },
+            {
+              "id": "860395708758491158",
+              "name": "CRE8R Level 1 (Contributor)",
+              "color": "#9B59B6",
+              "position": 139
+            },
+            {
+              "id": "879405738097791027",
+              "name": "Flower DAO Team",
+              "color": "#E91E63",
+              "position": 110
+            },
+            {
+              "id": "917915064512675931",
+              "name": "$CRE8R Holders",
+              "color": "#E74C3C",
+              "position": 79
+            },
+            {
+              "id": "923477073148932146",
+              "name": "sales",
+              "color": null,
+              "position": 75
+            },
+            {
+              "id": "923478490169364540",
+              "name": "business dev",
+              "color": null,
+              "position": 72
+            },
+            {
+              "id": "931307044273811496",
+              "name": "GOD MODE channels",
+              "color": "#F1C40F",
+              "position": 63
+            },
+            {
+              "id": "931414812141961266",
+              "name": "MARKETING channels",
+              "color": null,
+              "position": 62
+            },
+            {
+              "id": "931415459658608660",
+              "name": "ADMINISTRATION channels",
+              "color": null,
+              "position": 61
+            },
+            {
+              "id": "931426315075198977",
+              "name": "SUPERUMANS channels",
+              "color": null,
+              "position": 60
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/548358064076619776/d8033e1ced4491113a04714525ed15d6.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "999674258072543362",
+      "author_id": "542761771405017099",
+      "author_username": "bee926",
+      "content": "Hello, please let me know when the call is. I'd love to join. I'm at ETHCC, schedule might be a bit crazy but if I'm available I'd definitely love to hop on a call with you guys. Ps. I also speak Chinese.",
+      "message_timestamp": "2022-07-21T13:48:36.174+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "548358064076619776",
+          "name": "dunks411",
+          "discriminator": "0000",
+          "nickname": "dunks411",
+          "color": "#1F8B4C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "860429426465833010",
+              "name": "Admin",
+              "color": "#1F8B4C",
+              "position": 148
+            },
+            {
+              "id": "931413472049258586",
+              "name": "Core Team",
+              "color": "#F1C40F",
+              "position": 146
+            },
+            {
+              "id": "865792363442733077",
+              "name": "Project Manager",
+              "color": "#E91E63",
+              "position": 144
+            },
+            {
+              "id": "877477239116140555",
+              "name": "THE FOUNDING 100",
+              "color": "#FFE859",
+              "position": 143
+            },
+            {
+              "id": "931411129924726896",
+              "name": "CRE8R DAO Internal",
+              "color": "#1F8B4C",
+              "position": 141
+            },
+            {
+              "id": "860395708758491158",
+              "name": "CRE8R Level 1 (Contributor)",
+              "color": "#9B59B6",
+              "position": 139
+            },
+            {
+              "id": "879405738097791027",
+              "name": "Flower DAO Team",
+              "color": "#E91E63",
+              "position": 110
+            },
+            {
+              "id": "917915064512675931",
+              "name": "$CRE8R Holders",
+              "color": "#E74C3C",
+              "position": 79
+            },
+            {
+              "id": "923477073148932146",
+              "name": "sales",
+              "color": null,
+              "position": 75
+            },
+            {
+              "id": "923478490169364540",
+              "name": "business dev",
+              "color": null,
+              "position": 72
+            },
+            {
+              "id": "931307044273811496",
+              "name": "GOD MODE channels",
+              "color": "#F1C40F",
+              "position": 63
+            },
+            {
+              "id": "931414812141961266",
+              "name": "MARKETING channels",
+              "color": null,
+              "position": 62
+            },
+            {
+              "id": "931415459658608660",
+              "name": "ADMINISTRATION channels",
+              "color": null,
+              "position": 61
+            },
+            {
+              "id": "931426315075198977",
+              "name": "SUPERUMANS channels",
+              "color": null,
+              "position": 60
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/548358064076619776/d8033e1ced4491113a04714525ed15d6.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "999674346689810543",
+      "author_id": "542761771405017099",
+      "author_username": "bee926",
+      "content": "@tony-tang",
+      "message_timestamp": "2022-07-21T13:48:57.302+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "748075918714601512",
+          "name": "tonytang2583",
+          "discriminator": "0000",
+          "nickname": "tony-tang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748075918714601512/df6ea78305d76b133c5990dc06d29bd5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "999674931077988363",
+      "author_id": "548358064076619776",
+      "author_username": "dunks411",
+      "content": "🔥 I rebooked it for next monday will give you date in DMs shortly",
+      "message_timestamp": "2022-07-21T13:51:16.631+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "542761771405017099",
+          "name": "bee926",
+          "discriminator": "0000",
+          "nickname": "Bee926",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "862188253100113922",
+              "name": "MSIG",
+              "color": "#E67E22",
+              "position": 149
+            },
+            {
+              "id": "860429426465833010",
+              "name": "Admin",
+              "color": "#1F8B4C",
+              "position": 148
+            },
+            {
+              "id": "931413472049258586",
+              "name": "Core Team",
+              "color": "#F1C40F",
+              "position": 146
+            },
+            {
+              "id": "931279345861922876",
+              "name": "Senior Project Manager",
+              "color": "#E74C3C",
+              "position": 145
+            },
+            {
+              "id": "865792363442733077",
+              "name": "Project Manager",
+              "color": "#E91E63",
+              "position": 144
+            },
+            {
+              "id": "877477239116140555",
+              "name": "THE FOUNDING 100",
+              "color": "#FFE859",
+              "position": 143
+            },
+            {
+              "id": "927998548887371876",
+              "name": "CRE8R Level 2 (Sr Contributor)",
+              "color": "#AD1457",
+              "position": 140
+            },
+            {
+              "id": "860395708758491158",
+              "name": "CRE8R Level 1 (Contributor)",
+              "color": "#9B59B6",
+              "position": 139
+            },
+            {
+              "id": "1010235935516008469",
+              "name": "AmpliFi-Team",
+              "color": null,
+              "position": 16
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/542761771405017099/c68d0eb8b40b55e3b550c970a6e2f91c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "999856016747401226",
+      "author_id": "748075918714601512",
+      "author_username": "tonytang2583",
+      "content": "OK,great,thanks a lot",
+      "message_timestamp": "2022-07-22T01:50:50.819+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": []
+    },
+    {
+      "id": "1000020030051864616",
+      "author_id": "542761771405017099",
+      "author_username": "bee926",
+      "content": "Awesome let me know.",
+      "message_timestamp": "2022-07-22T12:42:34.638+00:00",
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "548358064076619776",
+          "name": "dunks411",
+          "discriminator": "0000",
+          "nickname": "dunks411",
+          "color": "#1F8B4C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "860429426465833010",
+              "name": "Admin",
+              "color": "#1F8B4C",
+              "position": 148
+            },
+            {
+              "id": "931413472049258586",
+              "name": "Core Team",
+              "color": "#F1C40F",
+              "position": 146
+            },
+            {
+              "id": "865792363442733077",
+              "name": "Project Manager",
+              "color": "#E91E63",
+              "position": 144
+            },
+            {
+              "id": "877477239116140555",
+              "name": "THE FOUNDING 100",
+              "color": "#FFE859",
+              "position": 143
+            },
+            {
+              "id": "931411129924726896",
+              "name": "CRE8R DAO Internal",
+              "color": "#1F8B4C",
+              "position": 141
+            },
+            {
+              "id": "860395708758491158",
+              "name": "CRE8R Level 1 (Contributor)",
+              "color": "#9B59B6",
+              "position": 139
+            },
+            {
+              "id": "879405738097791027",
+              "name": "Flower DAO Team",
+              "color": "#E91E63",
+              "position": 110
+            },
+            {
+              "id": "917915064512675931",
+              "name": "$CRE8R Holders",
+              "color": "#E74C3C",
+              "position": 79
+            },
+            {
+              "id": "923477073148932146",
+              "name": "sales",
+              "color": null,
+              "position": 75
+            },
+            {
+              "id": "923478490169364540",
+              "name": "business dev",
+              "color": null,
+              "position": 72
+            },
+            {
+              "id": "931307044273811496",
+              "name": "GOD MODE channels",
+              "color": "#F1C40F",
+              "position": 63
+            },
+            {
+              "id": "931414812141961266",
+              "name": "MARKETING channels",
+              "color": null,
+              "position": 62
+            },
+            {
+              "id": "931415459658608660",
+              "name": "ADMINISTRATION channels",
+              "color": null,
+              "position": 61
+            },
+            {
+              "id": "931426315075198977",
+              "name": "SUPERUMANS channels",
+              "color": null,
+              "position": 60
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/548358064076619776/d8033e1ced4491113a04714525ed15d6.png?size=512"
+        }
+      ]
+    }
+  ]
+}
