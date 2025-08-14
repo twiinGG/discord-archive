@@ -1,31 +1,20 @@
-export const dynamic = 'force-dynamic'
+import { supabaseServer } from '@/lib/supabase';
 
-import Link from 'next/link'
-import { supabaseServer } from '@/lib/supabase'
+export const dynamic = 'force-dynamic';
 
-async function getStats() {
-  if (!supabaseServer) return { channels: 0, users: 0, messages: 0 }
-  
-  try {
-    const [channelsResult, usersResult, messagesResult] = await Promise.all([
-      supabaseServer.from('channels').select('*', { count: 'exact', head: true }),
-      supabaseServer.from('users').select('*', { count: 'exact', head: true }),
-      supabaseServer.from('messages').select('*', { count: 'exact', head: true })
-    ])
+export default async function HomePage() {
+  // Fetch statistics
+  const { count: channelCount } = await supabaseServer
+    ?.from('channels')
+    .select('*', { count: 'exact', head: true }) || { count: 0 };
 
-    return {
-      channels: channelsResult.count || 0,
-      users: usersResult.count || 0,
-      messages: messagesResult.count || 0
-    }
-  } catch (error) {
-    console.error('Error fetching stats:', error)
-    return { channels: 0, users: 0, messages: 0 }
-  }
-}
+  const { count: messageCount } = await supabaseServer
+    ?.from('messages')
+    .select('*', { count: 'exact', head: true }) || { count: 0 };
 
-export default async function Home() {
-  const stats = await getStats()
+  const { count: userCount } = await supabaseServer
+    ?.from('users')
+    .select('*', { count: 'exact', head: true }) || { count: 0 };
 
   return (
     <main className="min-h-screen bg-gray-900 text-white">
@@ -34,61 +23,55 @@ export default async function Home() {
           <header className="text-center mb-12">
             <h1 className="text-4xl font-bold mb-4">Discord Archive</h1>
             <p className="text-xl text-gray-300">
-              Search and browse your Discord server history
+              Searchable and accessible archive of Discord messages
             </p>
           </header>
 
-          <div className="grid md:grid-cols-2 gap-8 mb-12">
-            <div className="bg-gray-800 p-6 rounded-lg">
-              <h2 className="text-2xl font-semibold mb-4">🔍 Search Messages</h2>
-              <p className="text-gray-300 mb-4">
-                Search through all messages with full-text search capabilities.
-              </p>
-              <Link 
-                href="/search" 
-                className="inline-block bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-lg font-medium transition-colors"
-              >
-                Start Searching
-              </Link>
+          {/* Statistics */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+            <div className="bg-gray-800 rounded-lg p-6 text-center">
+              <div className="text-3xl font-bold text-blue-400 mb-2">
+                {channelCount || 0}
+              </div>
+              <div className="text-gray-300">Channels</div>
             </div>
-
-            <div className="bg-gray-800 p-6 rounded-lg">
-              <h2 className="text-2xl font-semibold mb-4">📁 Browse Channels</h2>
-              <p className="text-gray-300 mb-4">
-                Browse messages by channel and category.
-              </p>
-              <Link 
-                href="/channels" 
-                className="inline-block bg-green-600 hover:bg-green-700 px-6 py-3 rounded-lg font-medium transition-colors"
-              >
-                Browse Channels
-              </Link>
+            <div className="bg-gray-800 rounded-lg p-6 text-center">
+              <div className="text-3xl font-bold text-green-400 mb-2">
+                {messageCount || 0}
+              </div>
+              <div className="text-gray-300">Messages</div>
+            </div>
+            <div className="bg-gray-800 rounded-lg p-6 text-center">
+              <div className="text-3xl font-bold text-purple-400 mb-2">
+                {userCount || 0}
+              </div>
+              <div className="text-gray-300">Users</div>
             </div>
           </div>
 
-          <div className="bg-gray-800 p-6 rounded-lg">
-            <h2 className="text-2xl font-semibold mb-4">📊 Statistics</h2>
-            <div className="grid grid-cols-3 gap-4 text-center">
-              <div>
-                <div className="text-3xl font-bold text-blue-400">{stats.channels}</div>
-                <div className="text-gray-300">Channels</div>
-              </div>
-              <div>
-                <div className="text-3xl font-bold text-green-400">{stats.users}</div>
-                <div className="text-gray-300">Users</div>
-              </div>
-              <div>
-                <div className="text-3xl font-bold text-purple-400">{stats.messages}</div>
-                <div className="text-gray-300">Messages</div>
-              </div>
-            </div>
-          </div>
-
-          <div className="mt-8 text-center text-gray-400">
-            <p>Ready for AI-powered RAG queries in the future</p>
+          {/* Navigation */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <a
+              href="/channels"
+              className="bg-blue-600 hover:bg-blue-700 rounded-lg p-6 text-center transition-colors"
+            >
+              <h2 className="text-2xl font-bold mb-2">Browse Channels</h2>
+              <p className="text-gray-300">
+                Explore messages organized by Discord channels
+              </p>
+            </a>
+            <a
+              href="/search"
+              className="bg-green-600 hover:bg-green-700 rounded-lg p-6 text-center transition-colors"
+            >
+              <h2 className="text-2xl font-bold mb-2">Search Messages</h2>
+              <p className="text-gray-300">
+                Search through all archived messages with full-text search
+              </p>
+            </a>
           </div>
         </div>
       </div>
     </main>
-  )
+  );
 }
